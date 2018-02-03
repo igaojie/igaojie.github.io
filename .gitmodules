@@ -1,0 +1,3 @@
+[submodule "mysql_learning"]
+	path = mysql_learning
+	url = https://github.com/igaojie/mysql_learning.git
